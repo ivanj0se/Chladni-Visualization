@@ -1,0 +1,4 @@
+pyvista
+sounddevice
+numpy
+scipy
